@@ -1,3 +1,9 @@
+.mole-grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
 .App {
   text-align: center;
 }
